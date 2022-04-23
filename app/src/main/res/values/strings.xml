@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BooksApp</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="messages">Messages</string>
+    <string name="search">Search</string>
+    <string name="books_api_key">AIzaSyC3NhjtsPAbMEQ9w2Rzwb21QviHOrpisBQ</string>
+    <string name="search_books_by_name_author_or_isbn">Search books by name, author or ISBN</string>
+    <string name="books">Books</string>
+    <string name="err_search">Error fetching books</string>
+    <string name="no_books_found">No books found for your query!</string>
+    <string name="info_wishlist">We will add to wish list in the future</string>
+</resources>
